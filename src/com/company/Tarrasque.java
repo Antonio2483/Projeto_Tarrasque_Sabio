@@ -9,7 +9,9 @@ public class Tarrasque {
 
         Scanner sc = new Scanner(System.in);
         String r = "";
-        Random x = new Random();
+        Random aleatorio = new Random();
+        Dados resposta = new Dados();
+        int limite = resposta.Tamanho();
 
         while (r != "asd") {
 
@@ -66,42 +68,11 @@ public class Tarrasque {
                 System.out.println("LMAO");
                 break;
             }
-            Tarrasque.Resposta(x.nextInt(20));
+            System.out.println(resposta.Resposta(aleatorio.nextInt(limite)));
             System.out.println("-----------------------------------------------------------------------------------------");
 
         }
 
     }
-
-    public static void Resposta(int numero){
-
-        String[] resposta = new String[99999999];
-        resposta[0] = "grawaaaahrarahr ";
-        resposta[1] = "sim";
-        resposta[2] = "não";
-        resposta[3] = "talvez";
-        resposta[4] = "sempre";
-        resposta[5] = "se mata";
-        resposta[6] = "CARROÇA!";
-        resposta[7] = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-        resposta[8] = "O homem por traz da carroça";
-        resposta[9] = "O SAM é brabor";
-        resposta[10] = "nunca";
-        resposta[11] = "Nivel de desafio 30";
-        resposta[12] = "Encontre mães tarrasques solteiras na sua região";
-        resposta[13] = "COM CERTEZA";
-        resposta[14] = "jogue DUNGEONS AND DRAGONS";
-        resposta[15] = "Você é burro o bastante para perguntar isso?";
-        resposta[16] = "Seus números da sorte são: 3 46 7 69 420";
-        resposta[17] = "Eu tenho vergonha de você";
-        resposta[18] = "Pergunta pro DM";
-        resposta[19] = "Você é corno(a)";
-        resposta[20] = "não quero responder";
-
-        System.out.println(resposta[numero]);
-
-
-    }
-
 }
 
