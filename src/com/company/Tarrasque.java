@@ -10,7 +10,6 @@ public class Tarrasque {
         Scanner sc = new Scanner(System.in);
         String r = "";
         Random x = new Random();
-        Tarrasque sabedoria = new Tarrasque();
 
         while (r != "asd") {
 
@@ -59,22 +58,22 @@ public class Tarrasque {
                     "@@@@,*/@@@@@@@@@@@@@@*#%%%&&%%%%%%%####(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*,*//(*///%#///*(@@@@@@@@\n" +
                     "@%.@@@@@@@@@@@@@@@*%%%%%%%%%#%%%&&%##,*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/#%&%%%%&%&&%%%#%%%,@@@@@@@@\n" +
                     "@@@@@@@@@@@@@@@@@@@@@&#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%./@@@@@@@@@@@@@@@@@");
-                System.out.println("");
-                System.out.println("A pergunta é:");
-                System.out.println(r);
-                System.out.println("O tarraque da sabedoria Responde:");
-                if (r.equals("69")){
-                    System.out.println("LMAO");
-                    break;
-                }
-                sabedoria.Resposta(x.nextInt(20));
-                System.out.println("-----------------------------------------------------------------------------------------");
+            System.out.println("");
+            System.out.println("A pergunta é:");
+            System.out.println(r);
+            System.out.println("O tarraque da sabedoria Responde:");
+            if (r.equals("69")) {
+                System.out.println("LMAO");
+                break;
+            }
+            Tarrasque.Resposta(x.nextInt(20));
+            System.out.println("-----------------------------------------------------------------------------------------");
 
         }
 
     }
 
-    public void Resposta(int numero){
+    public static void Resposta(int numero){
 
         String[] resposta = new String[99999999];
         resposta[0] = "grawaaaahrarahr ";
@@ -104,5 +103,5 @@ public class Tarrasque {
 
     }
 
-
 }
+
