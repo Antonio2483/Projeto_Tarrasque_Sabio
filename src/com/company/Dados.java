@@ -26,6 +26,7 @@ public class Dados {
             "não quero responder",
             "NAT 1",
             "NAT 20",
+            "Porque sim"
     };
 
     public String Resposta(int numero){
