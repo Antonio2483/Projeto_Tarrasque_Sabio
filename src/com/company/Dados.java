@@ -32,7 +32,8 @@ public class Dados {
             "Use bola de fogo",
             "Tu precisa de uma laranja, um coco, um machado, um ovo de páscoa do botafogo e criatividade",
             "Vá para o brasil",
-            "o problema de ser mais rápido que a luz, é viver na escuridão"
+            "O problema de ser mais rápido que a luz, é viver na escuridão",
+            "Da pipoca pro pai"
     };
 
     public String Resposta(int numero){
