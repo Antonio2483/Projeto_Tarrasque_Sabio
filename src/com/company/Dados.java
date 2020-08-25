@@ -26,7 +26,13 @@ public class Dados {
             "não quero responder",
             "NAT 1",
             "NAT 20",
-            "Porque sim"
+            "Porque sim",
+            "Seja como kati",
+            "Busque comer cimento",
+            "Use bola de fogo",
+            "Tu precisa de uma laranja, um coco, um machado, um ovo de páscoa do botafogo e criatividade",
+            "Vá para o brasil",
+            "o problema de ser mais rápido que a luz, é viver na escuridão"
     };
 
     public String Resposta(int numero){
