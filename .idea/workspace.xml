@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b512d1f5-861a-4d81-8f2a-69c64aa55ba4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tarrasque_sabio/com/company/Dados.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tarrasque_sabio/com/company/Dados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tarrasque_sabio/com/company/Tarrasque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tarrasque_sabio/com/company/Tarrasque.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Dados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Tarrasque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tarrasque.java" afterDir="false" />
     </list>
@@ -99,9 +97,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599236889156" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1600869599426">
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1600874822682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600869599426" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600874822682" />
   </component>
 </project>

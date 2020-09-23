@@ -3,11 +3,11 @@ package com.company;
 public class Dados {
 
     private String[] resposta = {
-            "grawaaaahrarahr ",
-            "sim",
-            "não",
-            "talvez",
-            "sempre",
+            "Grawaaaahrarahr ",
+            "Sim",
+            "Não",
+            "Talvez",
+            "Sempre",
             "bárbaro totêmico",
             "CARROÇA!",
             "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
@@ -22,7 +22,6 @@ public class Dados {
             "Seus números da sorte são: 3 46 7 69 420",
             "Eu tenho vergonha de você",
             "Pergunta pro DM",
-            "Você é corno(a)",
             "não quero responder",
             "NAT 1",
             "NAT 20",
@@ -36,7 +35,9 @@ public class Dados {
             "Da pipoca pro pai",
             "Quando tarrasques voarem",
             "aasimar é quebrado",
-            
+            "Kobolds são como goblins, pequenos e alguns voam",
+            "É culpa dos ilitides",
+            "Se tem status, você pode matar"
     };
 
     public String Resposta(int numero){
