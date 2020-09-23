@@ -13,7 +13,7 @@ public class Tarrasque {
         Dados resposta = new Dados();
         int limite = resposta.Tamanho();
 
-        while (r != "sadasdafdfaefwavmaksdjmido...sdofo") {
+        while (true) {
 
             System.out.println("Digite sua pergunta");
             r = sc.nextLine();

@@ -15,7 +15,7 @@ public class Dados {
             "O SAM é brabor",
             "nunca",
             "Nivel de desafio 30",
-            "Encontre mães tarrasques solteiras na sua região",
+            "Encontre tarrasques solteiras na sua região",
             "COM CERTEZA",
             "jogue DUNGEONS AND DRAGONS",
             "Você é burro o bastante para perguntar isso?",
@@ -33,7 +33,10 @@ public class Dados {
             "Tu precisa de uma laranja, um coco, um machado, um ovo de páscoa do botafogo e criatividade",
             "Vá para o brasil",
             "O problema de ser mais rápido que a luz, é viver na escuridão",
-            "Da pipoca pro pai"
+            "Da pipoca pro pai",
+            "Quando tarrasques voarem",
+            "aasimar é quebrado",
+            
     };
 
     public String Resposta(int numero){
