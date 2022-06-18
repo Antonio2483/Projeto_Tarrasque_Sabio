@@ -37,7 +37,8 @@ public class Dados {
             "aasimar é quebrado",
             "Kobolds são como goblins, pequenos e alguns voam",
             "É culpa dos ilitides",
-            "Se tem status, você pode matar"
+            "Se tem status, você pode matar",
+            "Skill issue"
     };
 
     public String Resposta(int numero){
